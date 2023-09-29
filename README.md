@@ -1,16 +1,17 @@
-### Hi there 👋
+# About me
+I'm a brazilian 16 year old developer, with 9 months of java experience and 10 months with lua.
 
-<!--
-**Supernoobv/Supernoobv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make minecraft mods, although i also do make server plugins if needed.
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the repositories in my profile are inactive, although the ones that i did work on and were used were:
+
+- Supaware
+
+And i have contributed to a few forge mods, such as 
+
+- Susy-Core
+
+And thats about it, however i am looking to make a few projects in my spare time.
+  
